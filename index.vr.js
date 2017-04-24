@@ -12,7 +12,7 @@ export default class WelcomeToVR extends React.Component {
   render() {
     return (
       <View>
-        <Pano source={asset('chess-world.jpg')}/>
+        <Pano source={asset('venice.jpg')}/>
         <Text
           style={{
             backgroundColor: '#777879',
